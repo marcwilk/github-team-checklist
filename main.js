@@ -1,7 +1,8 @@
 let willsfunction=(message)=>{
-let message = alert("farty poopie pants")
+let message = alert("yolo swag")
 return message
 }
 willsfunction()
 
 //pls work pls
+//shifh
