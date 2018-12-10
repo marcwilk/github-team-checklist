@@ -1,7 +1,7 @@
 let willsfunction=(message)=>{
-let message = "farty poopie pants"
+let message = alert("farty poopie pants")
 return message
 }
 willsfunction()
 
-//pls work
+//pls work pls
